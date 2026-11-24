@@ -2,7 +2,7 @@
 
 Quantitative Finance & Data Analytics practitioner focused on building reproducible pipelines across **financial machine learning, econometric risk modeling, algorithmic trading, business intelligence, and Web3 smart contracts**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Villa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-villa-601829342)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Villa-0A66C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-villa-analytics)
 [![GitHub](https://img.shields.io/badge/GitHub-Santiago--DataAnalyst-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Santiago-DataAnalyst)
 
 ---
